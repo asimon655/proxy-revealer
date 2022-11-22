@@ -21,6 +21,10 @@ it will look like that :
 so to sturggle with parse we used : http://www.jsfuck.com/ 
 and then the code of window.location.href cant be changed and to avoid of cahnge of the addr we encoded it in base64 and decoded in the server side 
 and this is how we cracked it 
+## parsed code to jsfuck code : 
+
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/90776557/203332214-078d8a84-bd56-41fd-9925-b70c4e663cc9.png">
+
 # use without proxy : 
 
 <img width="661" alt="image" src="https://user-images.githubusercontent.com/90776557/203330879-1e42458f-e0e7-4887-aabf-955c388674b4.png">
