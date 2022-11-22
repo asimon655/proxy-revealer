@@ -7,7 +7,7 @@ jct proxy : https://lev.jct.ac.il/dana/home/index.cgi
 
 <img width="1013" alt="image" src="https://user-images.githubusercontent.com/90776557/203329062-63ae1fb4-59f3-4674-a274-b2fe182c7592.png">
 
-let's connect to our website : https://proxyfinder-production.up.railway.app/
+let's connect to our website : https://proxy-revealer-production.up.railway.app/
 it will look like that : 
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/90776557/203329782-5cc36a16-c6a7-4d51-bbd8-a9fb65fff6b9.png">
 # in the console of the jct proxy : 
